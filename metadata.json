@@ -1,0 +1,8 @@
+{
+  "name": "Social Post Studio AI",
+  "description": "An AI-powered content creation suite to generate, enhance, and transform social media posts using text, images, audio, and video with the power of Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
